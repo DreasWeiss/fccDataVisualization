@@ -22,7 +22,7 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | title-link | done | path | solution |
 | --- | --- | --- | --- |
 | [Add Document Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-document-elements-with-d3) | ✅ | [path](./d3/addDocumentElementsWithD3/) | [solution](./d3/addDocumentElementsWithD3/solution.html) |
-| [Select a Group of Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/select-a-group-of-elements-with-d3) |  | [path](./d3/selectAGroupOfElementsWithD3/) | [solution](./d3/selectAGroupOfElementsWithD3/solution.html) |
+| [Select a Group of Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/select-a-group-of-elements-with-d3) | ✅ | [path](./d3/selectAGroupOfElementsWithD3/) | [solution](./d3/selectAGroupOfElementsWithD3/solution.html) |
 
 Work with Data in D3
 Not Passed
