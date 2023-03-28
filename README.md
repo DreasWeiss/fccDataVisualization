@@ -24,10 +24,9 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Add Document Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-document-elements-with-d3) | ✅ | [path](./d3/addDocumentElementsWithD3/) | [solution](./d3/addDocumentElementsWithD3/solution.html) |
 | [Select a Group of Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/select-a-group-of-elements-with-d3) | ✅ | [path](./d3/selectAGroupOfElementsWithD3/) | [solution](./d3/selectAGroupOfElementsWithD3/solution.html) |
 | [Work with Data in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-data-in-d3) | ✅ | [path](./d3/workWithDataInD3/) | [solution](./d3/workWithDataInD3/solution.html) |
-| [Work with Dynamic Data in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-dynamic-data-in-d3) | ✅ | [path](./d3/workWithDataInD3/) | [solution](./d3/workWithDataInD3/solution.html) |
+| [Work with Dynamic Data in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-dynamic-data-in-d3) | ✅ | [path](./d3/workWithDynamicDataInD3/) | [solution](./d3/workWithDynamicDataInD3/solution.html) |
+| [Add Inline Styling to Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-dynamic-data-in-d3) | ✅ | [path](./d3/addDocumentElementsWithD3/) | [solution](./d3/addDocumentElementsWithD3/solution.html) |
 
-Add Inline Styling to Elements
-Not Passed
 Change Styles Based on Data
 Not Passed
 Add Classes with D3
