@@ -29,12 +29,9 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Change Styles Based on Data](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-styles-based-on-data) | ✅ | [path](./d3/changeStylesBasedOnData/) | [solution](./d3/changeStylesBasedOnData/solution.html) |
 | [Add Classes with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-classes-with-d3) | ✅ | [path](./d3/addClassesWithD3/) | [solution](./d3/addClassesWithD3/solution.html) |
 | [Update the Height of an Element Dynamically](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/update-the-height-of-an-element-dynamically) | ✅ | [path](./d3/updateTheHeightOfAnElementDynamically/) | [solution](./d3/updateTheHeightOfAnElementDynamically/solution.html) |
+| [Change the Presentation of a Bar Chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-presentation-of-a-bar-chart) | ✅ | [path](./d3/changeThePresentationOfABarChart/) | [solution](./d3/changeThePresentationOfABarChart/solution.html) |
 
 
-Update the Height of an Element Dynamically
-Not Passed
-Change the Presentation of a Bar Chart
-Not Passed
 Learn About SVG in D3
 Not Passed
 Display Shapes with SVG
