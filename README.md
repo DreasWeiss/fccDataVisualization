@@ -30,10 +30,9 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Add Classes with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-classes-with-d3) | ✅ | [path](./d3/addClassesWithD3/) | [solution](./d3/addClassesWithD3/solution.html) |
 | [Update the Height of an Element Dynamically](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/update-the-height-of-an-element-dynamically) | ✅ | [path](./d3/updateTheHeightOfAnElementDynamically/) | [solution](./d3/updateTheHeightOfAnElementDynamically/solution.html) |
 | [Change the Presentation of a Bar Chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-presentation-of-a-bar-chart) | ✅ | [path](./d3/changeThePresentationOfABarChart/) | [solution](./d3/changeThePresentationOfABarChart/solution.html) |
+| [Learn About SVG in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/learn-about-svg-in-d3) | ✅ | [path](./d3/learnAboutSVGInD3/) | [solution](./d3/learnAboutSVGInD3/solution.html) |
 
 
-Learn About SVG in D3
-Not Passed
 Display Shapes with SVG
 Not Passed
 Create a Bar for Each Data Point in the Set
