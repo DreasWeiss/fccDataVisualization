@@ -26,9 +26,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Work with Data in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-data-in-d3) | ✅ | [path](./d3/workWithDataInD3/) | [solution](./d3/workWithDataInD3/solution.html) |
 | [Work with Dynamic Data in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-dynamic-data-in-d3) | ✅ | [path](./d3/workWithDynamicDataInD3/) | [solution](./d3/workWithDynamicDataInD3/solution.html) |
 | [Add Inline Styling to Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/work-with-dynamic-data-in-d3) | ✅ | [path](./d3/addDocumentElementsWithD3/) | [solution](./d3/addDocumentElementsWithD3/solution.html) |
+| [Change Styles Based on Data](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-styles-based-on-data) | ✅ | [path](./d3/changeStylesBasedOnData/) | [solution](./d3/changeStylesBasedOnData/solution.html) |
 
-Change Styles Based on Data
-Not Passed
 Add Classes with D3
 Not Passed
 Update the Height of an Element Dynamically
