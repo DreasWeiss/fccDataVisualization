@@ -41,9 +41,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Style D3 Labels](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/style-d3-labels) | ✅ | [path](./d3/styleD3Labels/) | [solution](./d3/styleD3Labels/solution.html) |
 | [Add a Hover Effect to a D3 Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-hover-effect-to-a-d3-element) | ✅ | [path](./d3/addAHoverEffectToAD3Element/) | [solution](./d3/addAHoverEffectToAD3Element/solution.html) |
 | [Add a Tooltip to a D3 Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-tooltip-to-a-d3-element) | ✅ | [path](./d3/addATooltipToAD3Element/) | [solution](./d3/addATooltipToAD3Element/solution.html) |
+| [Create a Scatterplot with SVG Circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-scatterplot-with-svg-circles) | ✅ | [path](./d3/createAScatterplotWithSVGCircles/) | [solution](./d3/createAScatterplotWithSVGCircles/solution.html) |
 
-Create a Scatterplot with SVG Circles
-Not Passed
 Add Attributes to the Circle Elements
 Not Passed
 Add Labels to Scatter Plot Circles
