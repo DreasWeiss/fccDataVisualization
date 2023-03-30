@@ -47,9 +47,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Create a Linear Scale with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-linear-scale-with-d3) | ✅ | [path](./d3/createALinearScaleWithD3/) | [solution](./d3/createALinearScaleWithD3/solution.html) |
 | [Set a Domain and a Range on a Scale](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/set-a-domain-and-a-range-on-a-scale) | ✅ | [path](./d3/setADomainAndARangeOnAScale/) | [solution](./d3/setADomainAndARangeOnAScale/solution.html) |
 | [Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-the-d3-max-and-d3-min-functions-to-find-minimum-and-maximum-values-in-a-dataset) | ✅ | [path](./d3/useTheD3.maxAndD3.minFunctionsToFindMinimumAndMaximumValuesInADataset/) | [solution](./d3/useTheD3.maxAndD3.minFunctionsToFindMinimumAndMaximumValuesInADataset/solution.html) |
+| [Use Dynamic Scales](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-dynamic-scales) | ✅ | [path](./d3/useDynamicScales/) | [solution](./d3/useDynamicScales/solution.html) |
 
-Use Dynamic Scales
-Not Passed
 Use a Pre-Defined Scale to Place Elements
 Not Passed
 Add Axes to a Visualization
