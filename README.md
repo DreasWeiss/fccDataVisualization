@@ -45,9 +45,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Add Attributes to the Circle Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-attributes-to-the-circle-elements) | ✅ | [path](./d3/addAttributesToTheCircleElements/) | [solution](./d3/addAttributesToTheCircleElements/solution.html) |
 | [Add Labels to Scatter Plot Circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-labels-to-scatter-plot-circles) | ✅ | [path](./d3/addLabelsToScatterPlotCircles/) | [solution](./d3/addLabelsToScatterPlotCircles/solution.html) |
 | [Create a Linear Scale with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-linear-scale-with-d3) | ✅ | [path](./d3/createALinearScaleWithD3/) | [solution](./d3/createALinearScaleWithD3/solution.html) |
+| [Set a Domain and a Range on a Scale](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/set-a-domain-and-a-range-on-a-scale) | ✅ | [path](./d3/setADomainAndARangeOnAScale/) | [solution](./d3/setADomainAndARangeOnAScale/solution.html) |
 
-Set a Domain and a Range on a Scale
-Not Passed
 Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset
 Not Passed
 Use Dynamic Scales
