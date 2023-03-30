@@ -50,3 +50,36 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Use Dynamic Scales](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-dynamic-scales) | ✅ | [path](./d3/useDynamicScales/) | [solution](./d3/useDynamicScales/solution.html) |
 | [Use a Pre-Defined Scale to Place Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-a-pre-defined-scale-to-place-elements) | ✅ | [path](./d3/useAPreDefinedScaleToPlaceElements/) | [solution](./d3/useAPreDefinedScaleToPlaceElements/solution.html) |
 | [Add Axes to a Visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization) | ✅ | [path](./d3/addAxesToAVisualization/) | [solution](./d3/addAxesToAVisualization/solution.html) |
+
+
+### JSON APIs and AJAX
+Similar to how UIs help people use programs, APIs (Application Programming Interfaces) help programs interact with other programs. APIs are tools that computers use to communicate with one another, in part to send and receive data.
+
+Programmers often use AJAX (Asynchronous JavaScript and XML) when working with APIs. AJAX refers to a group of technologies that make asynchronous requests to a server to transfer data, then load any returned data into the page. And the data transferred between the browser and server is often in a format called JSON (JavaScript Object Notation).
+
+This course will teach you the basics about working with APIs and different AJAX technologies in the browser.
+
+| title-link | done | path | solution |
+| --- | --- | --- | --- |
+| [Handle Click Events with JavaScript using the onclick property](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/handle-click-events-with-javascript-using-the-onclick-property) |  | [path](./jsonApiAjax/handleClickEventsWithJavaScriptUsingTheOnclickProperty/) | [solution](./jsonApiAjax/handleClickEventsWithJavaScriptUsingTheOnclickProperty/solution.html) |
+
+Handle Click Events with JavaScript using the onclick property
+Not Passed
+Change Text with click Events
+Not Passed
+Get JSON with the JavaScript XMLHttpRequest Method
+Not Passed
+Get JSON with the JavaScript fetch method
+Not Passed
+Access the JSON Data from an API
+Not Passed
+Convert JSON Data to HTML
+Not Passed
+Render Images from Data Sources
+Not Passed
+Pre-filter JSON to Get the Data You Need
+Not Passed
+Get Geolocation Data to Find A User's GPS Coordinates
+Not Passed
+Post Data with the JavaScript XMLHttpRequest Method
+Not Passed
