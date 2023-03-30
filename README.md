@@ -49,5 +49,4 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-the-d3-max-and-d3-min-functions-to-find-minimum-and-maximum-values-in-a-dataset) | ✅ | [path](./d3/useTheD3.maxAndD3.minFunctionsToFindMinimumAndMaximumValuesInADataset/) | [solution](./d3/useTheD3.maxAndD3.minFunctionsToFindMinimumAndMaximumValuesInADataset/solution.html) |
 | [Use Dynamic Scales](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-dynamic-scales) | ✅ | [path](./d3/useDynamicScales/) | [solution](./d3/useDynamicScales/solution.html) |
 | [Use a Pre-Defined Scale to Place Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-a-pre-defined-scale-to-place-elements) | ✅ | [path](./d3/useAPreDefinedScaleToPlaceElements/) | [solution](./d3/useAPreDefinedScaleToPlaceElements/solution.html) |
-
-Add Axes to a Visualization
+| [Add Axes to a Visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization) | ✅ | [path](./d3/addAxesToAVisualization/) | [solution](./d3/addAxesToAVisualization/solution.html) |
