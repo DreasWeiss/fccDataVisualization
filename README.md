@@ -32,10 +32,9 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Change the Presentation of a Bar Chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-presentation-of-a-bar-chart) | ✅ | [path](./d3/changeThePresentationOfABarChart/) | [solution](./d3/changeThePresentationOfABarChart/solution.html) |
 | [Learn About SVG in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/learn-about-svg-in-d3) | ✅ | [path](./d3/learnAboutSVGInD3/) | [solution](./d3/learnAboutSVGInD3/solution.html) |
 | [Display Shapes with SVG](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/display-shapes-with-svg) | ✅ | [path](./d3/displayShapesWithSVG/) | [solution](./d3/displayShapesWithSVG/solution.html) |
+| [Create a Bar for Each Data Point in the Set](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-bar-for-each-data-point-in-the-set) | ✅ | [path](./d3/createABarForEachDataPointInTheSet/) | [solution](./d3/createABarForEachDataPointInTheSet/solution.html) |
 
 
-Create a Bar for Each Data Point in the Set
-Not Passed
 Dynamically Set the Coordinates for Each Bar
 Not Passed
 Dynamically Change the Height of Each Bar
