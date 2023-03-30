@@ -39,9 +39,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Change the Color of an SVG Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element) | ✅ | [path](./d3/changeTheColorOfAnSVGElement/) | [solution](./d3/changeTheColorOfAnSVGElement/solution.html) |
 | [Add Labels to D3 Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element) | ✅ | [path](./d3/addLabelsToD3Elements/) | [solution](./d3/addLabelsToD3Elements/solution.html) |
 | [Style D3 Labels](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/style-d3-labels) | ✅ | [path](./d3/styleD3Labels/) | [solution](./d3/styleD3Labels/solution.html) |
+| [Add a Hover Effect to a D3 Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-hover-effect-to-a-d3-element) | ✅ | [path](./d3/addAHoverEffectToAD3Element/) | [solution](./d3/addAHoverEffectToAD3Element/solution.html) |
 
-Add a Hover Effect to a D3 Element
-Not Passed
 Add a Tooltip to a D3 Element
 Not Passed
 Create a Scatterplot with SVG Circles
