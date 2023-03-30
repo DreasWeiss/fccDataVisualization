@@ -43,9 +43,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Add a Tooltip to a D3 Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-tooltip-to-a-d3-element) | ✅ | [path](./d3/addATooltipToAD3Element/) | [solution](./d3/addATooltipToAD3Element/solution.html) |
 | [Create a Scatterplot with SVG Circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-scatterplot-with-svg-circles) | ✅ | [path](./d3/createAScatterplotWithSVGCircles/) | [solution](./d3/createAScatterplotWithSVGCircles/solution.html) |
 | [Add Attributes to the Circle Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-attributes-to-the-circle-elements) | ✅ | [path](./d3/addAttributesToTheCircleElements/) | [solution](./d3/addAttributesToTheCircleElements/solution.html) |
+| [Add Labels to Scatter Plot Circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-labels-to-scatter-plot-circles) | ✅ | [path](./d3/addLabelsToScatterPlotCircles/) | [solution](./d3/addLabelsToScatterPlotCircles/solution.html) |
 
-Add Labels to Scatter Plot Circles
-Not Passed
 Create a Linear Scale with D3
 Not Passed
 Set a Domain and a Range on a Scale
