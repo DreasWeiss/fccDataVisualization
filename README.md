@@ -35,9 +35,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Create a Bar for Each Data Point in the Set](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-bar-for-each-data-point-in-the-set) | ✅ | [path](./d3/createABarForEachDataPointInTheSet/) | [solution](./d3/createABarForEachDataPointInTheSet/solution.html) |
 | [Dynamically Set the Coordinates for Each Bar](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/dynamically-set-the-coordinates-for-each-bar) | ✅ | [path](./d3/dynamicallySetTheCoordinatesForEachBar/) | [solution](./d3/dynamicallySetTheCoordinatesForEachBar/solution.html) |
 | [Dynamically Change the Height of Each Bar](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/dynamically-change-the-height-of-each-bar) | ✅ | [path](./d3/dynamicallyChangeTheHeightOfEachBar/) | [solution](./d3/dynamicallyChangeTheHeightOfEachBar/solution.html) |
+| [Invert SVG Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/invert-svg-elements) | ✅ | [path](./d3/invertSVGElements/) | [solution](./d3/invertSVGElements/solution.html) |
 
-Invert SVG Elements
-Not Passed
 Change the Color of an SVG Element
 Not Passed
 Add Labels to D3 Elements
