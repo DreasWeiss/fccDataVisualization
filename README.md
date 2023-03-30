@@ -38,9 +38,8 @@ In the Data Visualization with D3 courses, you'll learn how to work with data to
 | [Invert SVG Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/invert-svg-elements) | ✅ | [path](./d3/invertSVGElements/) | [solution](./d3/invertSVGElements/solution.html) |
 | [Change the Color of an SVG Element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element) | ✅ | [path](./d3/changeTheColorOfAnSVGElement/) | [solution](./d3/changeTheColorOfAnSVGElement/solution.html) |
 | [Add Labels to D3 Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element) | ✅ | [path](./d3/addLabelsToD3Elements/) | [solution](./d3/addLabelsToD3Elements/solution.html) |
+| [Style D3 Labels](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/style-d3-labels) | ✅ | [path](./d3/styleD3Labels/) | [solution](./d3/styleD3Labels/solution.html) |
 
-Style D3 Labels
-Not Passed
 Add a Hover Effect to a D3 Element
 Not Passed
 Add a Tooltip to a D3 Element
