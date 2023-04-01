@@ -63,21 +63,13 @@ This course will teach you the basics about working with APIs and different AJAX
 | --- | --- | --- | --- |
 | [Handle Click Events with JavaScript using the onclick property](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/handle-click-events-with-javascript-using-the-onclick-property) |  | [path](./jsonApiAjax/handleClickEventsWithJavaScriptUsingTheOnclickProperty/) | [solution](./jsonApiAjax/handleClickEventsWithJavaScriptUsingTheOnclickProperty/solution.html) |
 
-Change Text with click Events
-Not Passed
-Get JSON with the JavaScript XMLHttpRequest Method
-Not Passed
-Get JSON with the JavaScript fetch method
-Not Passed
-Access the JSON Data from an API
-Not Passed
-Convert JSON Data to HTML
-Not Passed
-Render Images from Data Sources
-Not Passed
-Pre-filter JSON to Get the Data You Need
-Not Passed
-Get Geolocation Data to Find A User's GPS Coordinates
-Not Passed
-Post Data with the JavaScript XMLHttpRequest Method
-Not Passed
+| [Change Text with click Events]() |  | [path]() | [solution]() |
+| [Get JSON with the JavaScript XMLHttpRequest Method]() |  | [path]() | [solution]() |
+| [Get JSON with the JavaScript fetch method]() |  | [path]() | [solution]() |
+| [Access the JSON Data from an API]() |  | [path]() | [solution]() |
+| [Convert JSON Data to HTML]() |  | [path]() | [solution]() |
+| [Render Images from Data Sources]() |  | [path]() | [solution]() |
+| [Pre-filter JSON to Get the Data You Need]() |  | [path]() | [solution]() |
+| [Get Geolocation Data to Find A User's GPS Coordinates]() |  | [path]() | [solution]() |
+| [Post Data with the JavaScript XMLHttpRequest Method]() |  | [path]() | [solution]() |
+
