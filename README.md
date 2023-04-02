@@ -64,8 +64,7 @@ This course will teach you the basics about working with APIs and different AJAX
 | [Handle Click Events with JavaScript using the onclick property](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/handle-click-events-with-javascript-using-the-onclick-property) | ✅ | [path](./jsonApiAjax/handleClickEventsWithJavaScriptUsingTheOnclickProperty/) | [solution](./jsonApiAjax/handleClickEventsWithJavaScriptUsingTheOnclickProperty/solution.html) |
 | [Change Text with click Events](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/change-text-with-click-events) | ✅ | [path](./jsonApiAjax/changeTextWithClickEvents/) | [solution](./jsonApiAjax/changeTextWithClickEvents/solution.html) |
 | [Get JSON with the JavaScript XMLHttpRequest Method](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/get-json-with-the-javascript-xmlhttprequest-method) | ✅ | [path](./jsonApiAjax/getJSONWithTheJavaScriptXMLHttpRequestMethod/) | [solution](./jsonApiAjax/getJSONWithTheJavaScriptXMLHttpRequestMethod/solution.html) |
-
-| [Get JSON with the JavaScript fetch method]() |  | [path]() | [solution]() |
+| [Get JSON with the JavaScript fetch method](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/get-json-with-the-javascript-fetch-method) | ✅ | [path](./jsonApiAjax/getJSONWithTheJavaScriptFetchMethod/) | [solution](./jsonApiAjax/getJSONWithTheJavaScriptFetchMethod/solution.html) |
 | [Access the JSON Data from an API]() |  | [path]() | [solution]() |
 | [Convert JSON Data to HTML]() |  | [path]() | [solution]() |
 | [Render Images from Data Sources]() |  | [path]() | [solution]() |
